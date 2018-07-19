@@ -1,5 +1,5 @@
 # typescript-config-with-grunt
-The problem in the typescript is import and export moduel
+The problem is the typescript import and export moduel not work in old browser[IE]
 to solve this problem iam use browserify 
 it is convert the es6 import moduel to require moduel
 work in browser that's all grunt and browserify 
