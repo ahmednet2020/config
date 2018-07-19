@@ -88,8 +88,8 @@
   },
   "files": ["file1.ts","file2.ts"],
 /* The "files" property takes a list of relative or absolute file paths */
-	"include": ["src/**/*"],
-	"exclude": ["node_modules"]
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
 /* The "include" and "exclude" properties take a list of glob-like file patterns. The supported glob wildcards are:
 	* matches zero or more characters (excluding directory separators)
 	? matches any one character (excluding directory separators)
